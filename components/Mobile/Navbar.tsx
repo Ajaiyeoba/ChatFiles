@@ -11,6 +11,7 @@ export const Navbar: FC<Props> = ({
   selectedConversation,
   onNewConversation,
 }) => {
+  // here is the navbar 
   return (
     <nav className="flex w-full justify-between bg-[#202123] py-3 px-4">
       <div className="mr-4"></div>
